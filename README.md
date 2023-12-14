@@ -1,3 +1,5 @@
+### status do projeto: em andamento 
+
 Vídeos da sessão vídeos:
 
         <li class="videos__item">
