@@ -1,1 +1,46 @@
+/*CABEÇALHO*/
 
+.cabecalho__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /*afasta do topo*/
+    position: fixed;
+    top: 0; /*fixou cabeçalho no topo*/
+}
+
+.cabecalho__pesquisar__item {
+    display: none; /*faz sumir do projeto para aparecer somente quando chamado*/
+}
+
+/* SUPERIOR SEÇÃO */
+.superior__secao__container {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    overflow: scroll; /*cria barra ed rolagem*/
+    gap: 15px; /*espaçamento entre itens*/
+}
+
+/* RODAPÉ */
+.rodape__container {
+    display: flex;
+    /*flex-direction: column;
+    flex-wrap: wrap; /*quebra as colunas*/
+    flex-flow: column wrap;
+
+}
+
+@media (min-width:834px) {
+
+    /*CABEÇALHO*/
+
+    .cabecalho__pesquisar__item {
+        display: block;
+    }
+
+    /* RODAPÉ */
+    
+    .rodape__container {
+        justify-content: space-between;
+    }
+}
