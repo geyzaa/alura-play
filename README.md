@@ -1,6 +1,5 @@
-### status do projeto: em andamento 
-
-Vídeos da sessão vídeos:
+> status do projeto: em andamento 
+<!-- Vídeos da sessão vídeos:
 
         <li class="videos__item">
             <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/pA-EgOaF23I" title="YouTube video player" frameborder="0"
@@ -181,3 +180,4 @@ Vídeos da sessão vídeos:
                 <p>2,3 mil visualizações - Há 2 dias</p>
             </div>
         </li>
+        -->
