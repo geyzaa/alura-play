@@ -3,7 +3,7 @@ O projeto, chamado AluraPlay, é uma plataforma de vídeos com um layout moderno
 
 Acesse o site com o layout pronto através desse link: https://geyzaa.github.io/alura-play/
 
-layout para celulares, com cabeçalho possuindo logo e ícones e abaixo, uma seção com várias opções de navegação no site.
+layout para celulares, com cabeçalho possuindo logo e ícones e abaixo, uma seção com várias opções de navegação no site. <br>
 ![image](https://github.com/geyzaa/alura-play/assets/97538755/48dfd0a7-3e2c-4f57-95d6-f0f8b5608cfc)
 
 layout para tablets, com o menu movido para a lateral esquerda, e o cabeçalho passa a possuir um campo de pesquisa. Os vídeos ficam organizados dois por linha, o rodapé expande de tamanho e os tópicos de tecnologia são quebrados em quatro colunas.
